@@ -1,0 +1,14 @@
+{
+  "name": "howto-setup-webpack-on-es6-react-application-with-sass",
+  "version": "1.0.0",
+  "description": "https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
